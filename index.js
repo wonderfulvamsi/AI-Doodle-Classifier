@@ -45,7 +45,7 @@ async function loadModelFromS3() {
 let loadedModel;
 
 // Middleware for JSON parsing
-app.use(bodyParser.json());
+app.use(express.json());
 
 // Load the model on server start
 loadModelFromS3()
