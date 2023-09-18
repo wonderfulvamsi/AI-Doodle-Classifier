@@ -1,0 +1,2 @@
+get & post methods 
+https://6r2hri1bqj.execute-api.ap-south-1.amazonaws.com/Final-Stage

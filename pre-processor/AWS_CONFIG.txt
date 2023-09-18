@@ -1,0 +1,11 @@
+Key
+AKIAZPSHAPPYKW4RKASK
+
+Pass
+e+L4UHqeJCUpR9b2CLiPEsNb9P/VfGw7lgH9wlmU
+
+Region
+ap-south-1
+
+Lambda Puku Officer ARN
+arn:aws:iam::651910216688:role/LambdaPukuOfficer
